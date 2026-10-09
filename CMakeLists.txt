@@ -4,4 +4,5 @@ project(LearnC___Alshain)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(introduction introduction.cpp)
-add_executable(variables Variables/variables.cpp)
+add_executable(variables Variables/Variables.cpp)
+add_executable(const Const/Const.cpp)

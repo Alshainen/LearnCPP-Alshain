@@ -1,3 +1,6 @@
+//
+// Created by Alshain on 09/10/2026.
+//
 #include <iostream>
 // Mengambil library I/O (Input / Output)
 // Artinya “ambil kotak peralatan input-output” (input-output stream).
