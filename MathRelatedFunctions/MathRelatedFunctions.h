@@ -1,0 +1,13 @@
+//
+// Created by Alshain on 15/10/2026.
+//
+
+#ifndef LEARNC___ALSHAIN_MATHRELATEDFUNCTIONS_H
+#define LEARNC___ALSHAIN_MATHRELATEDFUNCTIONS_H
+
+
+class MathRelatedFunctions {
+};
+
+
+#endif //LEARNC___ALSHAIN_MATHRELATEDFUNCTIONS_H
